@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>FTP!OK!</h2>
+<h2>FTP!OK!git</h2>
 </body>
 </html>

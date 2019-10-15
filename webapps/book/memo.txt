@@ -1,0 +1,4 @@
+brew services start tomcat
+
+cd /usr/local/Cellar/tomcat/9.0.27/libexec/webapps/book/WEB-INF
+javac -d classes -encoding utf-8 src/chapter3/Hello2.java
